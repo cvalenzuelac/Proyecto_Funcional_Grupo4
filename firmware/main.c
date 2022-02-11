@@ -3,6 +3,11 @@
 #include <string.h>
 #include <stdbool.h> 
 
+#include <iostream>
+#include <math.h>
+#define _USE_MATH_DEFINES
+using namespace std;
+
 #include <irq.h>
 #include <uart.h>
 #include <console.h>
